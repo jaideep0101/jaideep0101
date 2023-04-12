@@ -4,10 +4,6 @@
   
 <p align="center"><img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
 
-
-
-  
-<!--  <p align="right"><img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p> -->
  
 <p align='center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
@@ -20,7 +16,7 @@
 - 🌱 I’m currently learning **Web Development**
 - 👨‍💻 All of my projects are available at [https://jaideepthakur.netlify.app/](https://jaideepthakur.netlify.app/)
 - 💬 Ask me about **React,Javascript**
-- 📫 How to reach me **jaideep0101@gmail.com**
+- 📫 How to reach me **jaideepst0101@gmail.com**
 
 <br/>
 <hr/>
