@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 - 👨‍💻 All of my projects are available at [https://jaideepthakur.netlify.app/](https://jaideepthakur.netlify.app/)
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **React,Javascript,Node,Mongodb**
 - 📫 How to reach me **jaideepst0101@gmail.com**
 
 <br/>
