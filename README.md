@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">, I'm Jaideep Singh Thakur</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/26BRuzHtLlLywLANa/giphy.gif" width="40">, I'm Jaideep Singh Thakur</h1>
 
-<p align="center"><em>A passionate Web Developer from India <img src="https://media.giphy.com/media/26BRuzHtLlLywLANa/giphy.gif" width="30"></p>
+<p align="center"><em>A passionate Web Developer from India <img src="https://media.giphy.com/media/VTc0g9IKEpLAk/giphy.gif" width="30"></p>
   
 <p align="center"><img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
 
