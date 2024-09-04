@@ -44,7 +44,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaideep0101&show_icons=true&locale=en" alt="jaideep0101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaideep0101&" alt="jaideep0101" /></p>
-
 <br/>
 <p align="left">
 <picture>
@@ -53,8 +52,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
-<br/>
-
 <hr/>
 
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
